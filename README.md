@@ -1,1 +1,1 @@
-# lab2_C-
+Simple Application of FIFO in C++
